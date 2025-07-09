@@ -60,6 +60,31 @@ To run the analysis and modeling steps:
    - Train and evaluate the Logistic Regression model
    - Visualize the performance using charts and metrics
 
+   ## 📊 Results & Visualizations
+
+This section showcases key visuals generated during the analysis of DJIA stock movement prediction using sentiment from news headlines. These helped interpret model performance and the nature of the dataset.
+
+### 🧠 WordCloud of Most Frequent Words
+This WordCloud highlights the most frequently occurring words in the news headlines. Common terms like "say", "new", "US", and "China" dominate the dataset.
+![WordCloud](images/wordcloud.png)
+
+### 📈 Class Distribution (Up vs Down Days)
+This bar chart displays the distribution of market up days (1) vs down days (0), showing a relatively balanced dataset.
+![Class Distribution](images/class_distribution.png)
+
+### 📊 Distribution of Headline Lengths
+The histogram below shows the distribution of the total headline lengths (combined headlines per day), helping us understand the text input size.
+![Headline Lengths](images/headline_lengths.png)
+
+### 🔍 Confusion Matrix
+This confusion matrix visualizes the model’s performance in terms of true positives, false positives, true negatives, and false negatives.
+![Confusion Matrix](images/confusion_matrix.png)
+
+### 📊 Model Performance by Class
+This grouped bar chart displays precision, recall, and F1-score for each class, showing that the model performed better on predicting up days (1).
+![Model Performance](images/class_performance.png)
+
+
 ## ✅ Results Summary
 
 - The Logistic Regression model achieved an accuracy of **48.24%**.
