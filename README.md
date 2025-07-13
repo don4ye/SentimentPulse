@@ -94,6 +94,13 @@ This grouped bar chart displays precision, recall, and F1-score for each class, 
 
 While the results were modest, they highlight important challenges in sentiment classification using simple models and underscore the need for richer features or more advanced techniques.
 
+## Limitations
+
+- The dataset is limited to news from 2008–2016 and may not generalize to today's market behavior.
+- The TF-IDF method may not fully capture the context and semantics in the headlines.
+- Logistic Regression may be too simple for capturing the complexity of sentiment-driven market movement.
+
+
 ## 🔮 Future Work
 
 To improve model performance and expand the project’s scope, the following steps are recommended:
