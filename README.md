@@ -1,6 +1,6 @@
 # SentimentPulse: Predicting Stock Movement Using Social Media Sentiment
 
-This project explores whether social media sentiment—collected from platforms like Twitter and Reddit—can help predict short-term stock price movements. By combining sentiment data with historical stock price data, we aim to train machine learning models that classify sentiment and forecast price direction.
+This project explores whether social media sentiment collected from platforms like Twitter and Reddit can help predict short-term stock price movements. By combining sentiment data with historical stock price data, we aim to train machine learning models that classify sentiment and forecast price direction.
 
 ## 🔍 Project Goals
 
@@ -108,9 +108,10 @@ These enhancements can increase predictive accuracy and help apply the solution 
 
 ## 🙋‍♂️ Author
 
-**Prince Adebisi**  
+**monsuru Adebisi**  
 - 📧 Email: adedayo76431@gmail.com  
 - 🔗 GitHub: [don4ye](https://github.com/don4ye)  
+-    [Overleaf Project Report (PDF)](https://www.overleaf.com/read/knfykzwnrzyw#4d55bd)
 - 📍 Location: Kenner, Louisiana  
 - 🎓 Data Analytics Graduate Student, Northwest Missouri State University (2025)
 
