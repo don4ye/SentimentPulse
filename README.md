@@ -64,9 +64,10 @@ To run the analysis and modeling steps:
 
 This section showcases key visuals generated during the analysis of DJIA stock movement prediction using sentiment from news headlines. These helped interpret model performance and the nature of the dataset.
 
-### 🧠 WordCloud of Most Frequent Words
-This WordCloud highlights the most frequently occurring words in the news headlines. Common terms like "say", "new", "US", and "China" dominate the dataset.
+### 🧠 Word Cloud of Most Frequent Words
+This word cloud visualizes the most frequently occurring and sentiment relevant words across all combined financial news headlines. Prominent terms such as “government,” “new,” “world,” “people,” “country,” and “attack” indicate recurring topics related to global affairs, geopolitical conflicts, and leadership decisions. These themes often carry emotional weight and are influential in shaping investor sentiment, making them critical to understanding potential stock market movements.
 ![WordCloud](images/wordcloud.png)
+
 
 ### 📈 Class Distribution (Up vs Down Days)
 This bar chart displays the distribution of market up days (1) vs down days (0), showing a relatively balanced dataset.
