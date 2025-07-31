@@ -66,7 +66,7 @@ This section showcases key visuals generated during the analysis of DJIA stock m
 
 ### 🧠 Word Cloud of Most Frequent Words
 This word cloud visualizes the most frequently occurring and sentiment relevant words across all combined financial news headlines. Prominent terms such as “government,” “new,” “world,” “people,” “country,” and “attack” indicate recurring topics related to global affairs, geopolitical conflicts, and leadership decisions. These themes often carry emotional weight and are influential in shaping investor sentiment, making them critical to understanding potential stock market movements.
-![WordCloud](images/wordcloud.png)
+![WordCloud](images/wordclouds.png)
 
 
 ### 📈 Class Distribution (Up vs Down Days)
